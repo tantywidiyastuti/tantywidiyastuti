@@ -61,15 +61,7 @@ I'm a tech enthusiast from Indonesia, currently exploring the intersection of **
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmatsembiring&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmatsembiring&layout=compact&theme=radical)
-
-</div>
 
 ---
 
