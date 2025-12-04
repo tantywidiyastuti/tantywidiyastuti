@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### Blockchain Engineer
+### Data Science Student | Analyst | Machine Learning & Big Data Enthusiast
 
 
 
@@ -11,51 +11,57 @@
 
 ---
 
-👨‍🎓 **Informatics Student** at Institut Teknologi Sumatera (ITERA)
+🎓 About Me
 
-🚀 **Aspiring** Web3 Developer | Blockchain Engineer | Web Pentester
+I'm a Data Science student from Indonesia who is passionate about transforming data into insights and building intelligent systems.
+My interests span across machine learning, data engineering, cloud platforms, and analytics — from exploring regression, optimization, and statistical modeling, to designing ETL workflows and working with large datasets.
 
-🔐 **Passionate** about decentralization, cybersecurity, and open innovation
+I love learning through hands-on projects: analyzing real-world datasets, building dashboards, developing ML models, and designing end-to-end data pipelines.
+Currently, I’m actively working on projects related to:
 
+📊 Data analysis & visualization
+
+🤖 Machine learning & predictive modeling
+
+🛠 ETL & data pipeline architecture
+
+☁️ Cloud-based data processing (BigQuery, GCP)
 ---
 
-## 🧠 About Me
+## 🧠 Skills & Tech Stack
+📌 Data Science & Machine Learning
 
-I'm a tech enthusiast from Indonesia, currently exploring the intersection of **Web3 technology**, **ethical hacking**, and **distributed systems**. As a student of Informatics Engineering at ITERA, I thrive on building **secure, decentralized applications** and uncovering **vulnerabilities in web platforms** to make the digital world a safer place.
+Languages: Python (NumPy, Pandas, Matplotlib, Scikit-Learn), R
 
-🚀 My learning journey is driven by **curiosity and community** — from experimenting with **smart contracts** on Ethereum, to automating **penetration testing tools**, to actively engaging in CTFs and contributing to **open-source Web3 projects**.
+Topics: Regression, Classification, Clustering, Optimization, Statistics, Time Series
 
----
+ML Workflows: Data cleaning, feature engineering, model tuning, evaluation
 
-## 🛠️ Skills & Tech Stack
+📌 Data Engineering & ETL
 
-### Blockchain & Web3
-- **Languages:** Solidity, JavaScript, Python
-- **Frameworks:** Truffle, Hardhat, Web3.js, Ethers.js
-- **Platforms:** Ethereum, Polygon, BSC
+Tools: BigQuery, SQL, DBMS, ETL Pipelines
 
-### Web Development
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, PostgreSQL, Firebase
+Concepts: Data warehousing, data modeling, query optimization
 
-### Cybersecurity & Penetration Testing
-- **Tools:** Burp Suite, OWASP ZAP, Metasploit
-- **Techniques:** OWASP Top 10, Network Security, Vulnerability Assessment
-- **Certifications:** Interested in CEH, OSCP
+Other: JSON, XML, CSV data processing
 
-### Tools & DevOps
-- **Version Control:** Git, GitHub
-- **Other:** Docker, Linux, Bash, Postman
+📌 Web Development (Basic to Intermediate)
 
+Frontend: HTML, CSS
+
+Backend: Flask, APIs
+
+Databases: MySQL, PostgreSQL
+
+📌 Tools & Productivity
+
+Version Control: Git, GitHub
+
+Others: Linux basics, Jupyter Notebook, Google Cloud
 ---
 
 ## 📂 Featured Projects
 
-<!-- Add your featured projects here -->
-- 🔗 [Project Name](#) - Brief description
-- 🔗 [Project Name](#) - Brief description
-- 🔗 [Project Name](#) - Brief description
 
 ---
 
@@ -63,12 +69,15 @@ I'm a tech enthusiast from Indonesia, currently exploring the intersection of **
 
 ---
 
-## 🎯 Currently Learning
+## 🧩 What I'm Currently Learning
 
-- 🔐 Advanced Smart Contract Security
-- 🌐 Layer 2 Scaling Solutions
-- 🛡️ Advanced Penetration Testing
-- 📚 Blockchain Consensus Mechanisms
+Advanced Regression (Polynomial, Splines)
+
+Functional Programming Concepts
+
+Big Data Processing Workflows
+
+Data Pipeline Optimization
 
 ---
 
