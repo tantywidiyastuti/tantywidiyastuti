@@ -86,11 +86,9 @@ I'm a tech enthusiast from Indonesia, currently exploring the intersection of **
 
 Feel free to reach out if you want to collaborate on **Web3 projects**, discuss **blockchain security**, or just chat about tech!
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Ahmat Prayoga Sembiring](https://linkedin.com/in/ahmatsembiring)
-- 🐦 Twitter: [@ahmatsembiring](https://twitter.com/ahmatsembiring)
-- 💻 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
+- 📧 Email: tanty.123450094@student.itera.ac.id
+- 💼 LinkedIn: [Tanty widiyastuti](https://www.linkedin.com/in/tanty-widiyastuti-5a9a922b4/)
+  
 ---
 
 ### ⭐ If you find my projects useful, don't forget to give them a star! Thanks!
