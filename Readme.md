@@ -4,10 +4,7 @@
 
 ### Blockchain Engineer
 
-[![Profile views](https://komarev.com/ghpvc/?username=ahmatsembiring&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ahmatsembiring)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmatsembiring)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ahmatsembiring)
+
 
 </div>
 
