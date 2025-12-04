@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hello World, I'm Tanty Widiastuti 🌍
 
 <div align="center">
