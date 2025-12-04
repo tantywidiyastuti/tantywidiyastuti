@@ -1,0 +1,102 @@
+# 👋 Hello World, I'm Tanty Widiastuti 🌍
+
+<div align="center">
+
+### Blockchain Engineer
+
+[![Profile views](https://komarev.com/ghpvc/?username=ahmatsembiring&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ahmatsembiring)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmatsembiring)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ahmatsembiring)
+
+</div>
+
+---
+
+👨‍🎓 **Informatics Student** at Institut Teknologi Sumatera (ITERA)
+
+🚀 **Aspiring** Web3 Developer | Blockchain Engineer | Web Pentester
+
+🔐 **Passionate** about decentralization, cybersecurity, and open innovation
+
+---
+
+## 🧠 About Me
+
+I'm a tech enthusiast from Indonesia, currently exploring the intersection of **Web3 technology**, **ethical hacking**, and **distributed systems**. As a student of Informatics Engineering at ITERA, I thrive on building **secure, decentralized applications** and uncovering **vulnerabilities in web platforms** to make the digital world a safer place.
+
+🚀 My learning journey is driven by **curiosity and community** — from experimenting with **smart contracts** on Ethereum, to automating **penetration testing tools**, to actively engaging in CTFs and contributing to **open-source Web3 projects**.
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+### Blockchain & Web3
+- **Languages:** Solidity, JavaScript, Python
+- **Frameworks:** Truffle, Hardhat, Web3.js, Ethers.js
+- **Platforms:** Ethereum, Polygon, BSC
+
+### Web Development
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL, Firebase
+
+### Cybersecurity & Penetration Testing
+- **Tools:** Burp Suite, OWASP ZAP, Metasploit
+- **Techniques:** OWASP Top 10, Network Security, Vulnerability Assessment
+- **Certifications:** Interested in CEH, OSCP
+
+### Tools & DevOps
+- **Version Control:** Git, GitHub
+- **Other:** Docker, Linux, Bash, Postman
+
+---
+
+## 📂 Featured Projects
+
+<!-- Add your featured projects here -->
+- 🔗 [Project Name](#) - Brief description
+- 🔗 [Project Name](#) - Brief description
+- 🔗 [Project Name](#) - Brief description
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmatsembiring&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmatsembiring&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- 🔐 Advanced Smart Contract Security
+- 🌐 Layer 2 Scaling Solutions
+- 🛡️ Advanced Penetration Testing
+- 📚 Blockchain Consensus Mechanisms
+
+---
+
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on **Web3 projects**, discuss **blockchain security**, or just chat about tech!
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Ahmat Prayoga Sembiring](https://linkedin.com/in/ahmatsembiring)
+- 🐦 Twitter: [@ahmatsembiring](https://twitter.com/ahmatsembiring)
+- 💻 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+### ⭐ If you find my projects useful, don't forget to give them a star! Thanks!
+
+<div align="center">
+  
+**Made with ❤️ from Indonesia**
+
+</div>
