@@ -45,24 +45,6 @@ Concepts: Data warehousing, data modeling, query optimization
 
 Other: JSON, XML, CSV data processing
 
-📌 Web Development (Basic to Intermediate)
-
-Frontend: HTML, CSS
-
-Backend: Flask, APIs
-
-Databases: MySQL, PostgreSQL
-
-📌 Tools & Productivity
-
-Version Control: Git, GitHub
-
-Others: Linux basics, Jupyter Notebook, Google Cloud
----
-
-## 📂 Featured Projects
-
-
 ---
 
 
